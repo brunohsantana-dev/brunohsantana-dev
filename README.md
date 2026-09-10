@@ -35,16 +35,13 @@ I'm particularly interested in Web Development, Software Engineering, technology
 <br>
 <br>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brunohsantana-dev&rank_icon=github&hide_title=true&show_icons=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=brunohsantana-dev&rank_icon=github&hide_title=true&show_icons=true&theme=algolia)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brunohsantana-dev&layout=compact&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=brunohsantana-dev&layout=compact&theme=algolia)
-<br>
 <br>
 Get in touch
-
+<br>
 <a href="mailto:brunohsantana.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)" alt="mail-me">
 </a>
+<br>
 <a href="https://www.linkedin.com/in/brunohsantana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="-my-linkedin-button">
 </a>
