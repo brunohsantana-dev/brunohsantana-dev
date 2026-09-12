@@ -1,6 +1,6 @@
 # Hi, I'm Bruno 👋
 
-🇧🇷 Aspiring software developer from Brazil, learning through hands-on projects.
+Aspiring software developer from Brazil, learning through hands-on projects.
 
 [English](#english) · [Português](#portugues)
 
