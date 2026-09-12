@@ -1,37 +1,86 @@
-Hi, I'm Bruno 👋
+# Hi, I'm Bruno 👋
 
-I'm an aspiring Software Developer from Brazil, currently studying Systems Analysis and Development and building practical experience in Software Development, Web Development and Front-End Development through hands-on projects.
+🇧🇷 Aspiring software developer from Brazil, learning through hands-on projects.
 
-💻 Currently working with HTML & CSS, including responsive web design, and taking my first steps with JavaScript.
+[English](#english) · [Português](#portugues)
 
-🎓 Studying Systems Analysis and Development (ADS) <br>
-⚡ Also studying Electrical Technology at SENAI, combining my interests in software, technology and electrical systems.
+<a id="english"></a>
 
-🚀 What I'm working on: <br>
-- Building Web Development projects to strengthen my programming fundamentals <br>
-- Creating responsive interfaces with HTML & CSS <br>
-- Learning JavaScript and adding interactivity to my projects <br>
-- Using Git and GitHub for version control and project management <br>
-- Expanding my knowledge toward Full-Stack Development <br>
-- Exploring projects at the intersection of Software Development, Electrical Systems, Solar Energy and Renewable Energy <br>
-<br>
+## 👨‍💻 About me
 
-🛠️ Tech Stack
+I'm studying Systems Analysis and Development (ADS) and building my programming foundation through web development projects.
 
-Currently using:<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white">
+I'm also studying Electrical Technology at SENAI, bringing together my interests in software, technology, and electrical systems.
 
-Currently learning:<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+I currently build responsive interfaces with HTML and CSS and use JavaScript to add interactivity while learning its fundamentals.
 
-🎯 My goal
+## 🚀 What I'm working on
 
-To become a well-rounded Software Developer with strong programming fundamentals, practical experience and the ability to build software solutions for real-world problems.
+- Building web projects to put new concepts into practice.
+- Creating responsive and accessible interfaces.
+- Practicing JavaScript, DOM manipulation, and application logic.
+- Using Git and GitHub to track changes and organize my projects.
+- Developing the foundations to progress toward full-stack development.
+- Exploring how software can support electrical systems and renewable energy.
 
-I'm particularly interested in Web Development, Software Engineering, technology and renewable energy.
-<br>
+## 🛠️ Tech stack
 
-<strong>Always learning. Always building.</strong>
+**Currently using:** HTML · CSS · Git · GitHub
+
+**Currently learning:** JavaScript · Programming fundamentals · DOM manipulation
+
+## 🎓 Education
+
+- Systems Analysis and Development (ADS) — in progress.
+- Electrical Technology at SENAI — in progress.
+
+## 🎯 My goal
+
+To become a software developer with strong fundamentals and the practical skills to build useful solutions to real-world problems.
+
+I'm especially interested in web development, software engineering, and applications that connect software with electrical systems, solar energy, and renewable energy.
+
+**Always learning. Always building.**
+
+---
+
+<a id="portugues"></a>
+
+## 👨‍💻 Sobre mim
+
+Sou brasileiro, estudante de Análise e Desenvolvimento de Sistemas (ADS), e estou construindo minha base em programação por meio de projetos de desenvolvimento web.
+
+Também estudo Eletrotécnica no SENAI, conectando meus interesses em software, tecnologia e sistemas elétricos.
+
+Atualmente, desenvolvo interfaces responsivas com HTML e CSS e utilizo JavaScript para adicionar interatividade enquanto aprendo seus fundamentos.
+
+## 🚀 O que estou desenvolvendo
+
+- Projetos web para colocar novos conceitos em prática.
+- Interfaces responsivas e acessíveis.
+- Conhecimentos em JavaScript, manipulação do DOM e lógica de programação.
+- Prática com Git e GitHub para acompanhar alterações e organizar projetos.
+- Uma base sólida para avançar em direção ao desenvolvimento full-stack.
+- Ideias sobre como o software pode contribuir com sistemas elétricos e energia renovável.
+
+## 🛠️ Tecnologias
+
+**Utilizando atualmente:** HTML · CSS · Git · GitHub
+
+**Estudando:** JavaScript · Fundamentos de programação · Manipulação do DOM
+
+## 🎓 Formação
+
+- Análise e Desenvolvimento de Sistemas (ADS) — em andamento.
+- Eletrotécnica no SENAI — em andamento.
+
+## 🎯 Meu objetivo
+
+Tornar-me um desenvolvedor de software com fundamentos sólidos e experiência prática para criar soluções úteis para problemas reais.
+
+Tenho interesse especial em desenvolvimento web, engenharia de software e aplicações que conectem software a sistemas elétricos, energia solar e fontes renováveis.
+
+**Sempre aprendendo. Sempre construindo.**
 <br>
 <br>
 
