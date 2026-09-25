@@ -1,93 +1,94 @@
 # Hi, I'm Bruno 👋
 
-Aspiring software developer from Brazil, learning through hands-on projects.
+### Software Development • Web Development • Building Real-World Projects
 
-[English](#english) · [Português](#portugues)
+I'm transitioning into software development while studying Systems Analysis and Development and building practical projects along the way.
 
-<a id="english"></a>
+Before tech, I built a diverse professional background across Brazil and Australia, with experience in team management, hospitality, electrical work and renewable energy, as well as entrepreneurship through my work as a tattoo artist.
 
-## 👨‍💻 About me
+That journey taught me how to solve problems, adapt quickly, communicate with different people, take ownership, work under pressure, and combine creativity with practical decision-making.
 
-I'm studying Systems Analysis and Development (ADS) and building my programming foundation through web development projects.
-
-I currently build responsive interfaces with HTML and CSS and use JavaScript to add interactivity while learning its fundamentals.
-
-## 🚀 What I'm working on
-
-- Building web projects to put new concepts into practice.
-- Creating responsive and accessible interfaces.
-- Practicing JavaScript, DOM manipulation, and application logic.
-- Using Git and GitHub to track changes and organize my projects.
-- Developing the foundations to progress toward full-stack development.
-
-## 🛠️ Tech stack
-
-**Currently using:** HTML · CSS · Git · GitHub
-
-**Currently learning:** JavaScript · Programming fundamentals · DOM manipulation
-
-## 🎓 Education
-
-- Systems Analysis and Development (ADS) — in progress.
-
-## 🎯 My goal
-
-To become a software developer with strong fundamentals and the practical skills to build useful solutions to real-world problems.
-
-I'm especially interested in web development and software engineering.
-
-**Always learning. Always building.**
+**I'm at the beginning of my career as a developer — but not at the beginning of my professional journey.**
 
 ---
 
-<a id="portugues"></a>
+## 🚀 Featured Projects
 
-## 👨‍💻 Sobre mim
+### 🍔 Byte Burger
+A responsive and interactive burger restaurant experience combining JavaScript logic, visual design and dynamic content.
 
-Sou brasileiro, estudante de Análise e Desenvolvimento de Sistemas (ADS), e estou construindo minha base em programação por meio de projetos de desenvolvimento web.
+**Live:**  
+https://brunohsantana-dev.github.io/arrays-burger/
 
-Atualmente, desenvolvo interfaces responsivas com HTML e CSS e utilizo JavaScript para adicionar interatividade enquanto aprendo seus fundamentos.
+**Repository:**  
+https://github.com/brunohsantana-dev/arrays-burger
 
-## 🚀 O que estou desenvolvendo
+---
 
-- Projetos web para colocar novos conceitos em prática.
-- Interfaces responsivas e acessíveis.
-- Conhecimentos em JavaScript, manipulação do DOM e lógica de programação.
-- Prática com Git e GitHub para acompanhar alterações e organizar projetos.
-- Uma base sólida para avançar em direção ao desenvolvimento full-stack.
+### 🎲 Bora Codar
+A coding challenge picker created to help programming learners decide what to build next.
 
-## 🛠️ Tecnologias
+Users can choose difficulty levels, filter pending challenges, track completed projects and keep their progress saved in the browser.
 
-**Utilizando atualmente:** HTML · CSS · Git · GitHub
+**Live:**  
+https://brunohsantana-dev.github.io/challenge-draw/
 
-**Estudando:** JavaScript · Fundamentos de programação · Manipulação do DOM
+**Repository:**  
+https://github.com/brunohsantana-dev/challenge-draw
 
-## 🎓 Formação
+---
 
-- Análise e Desenvolvimento de Sistemas (ADS) — em andamento.
+## 👨‍💻 What I'm working on
 
-## 🎯 Meu objetivo
+I'm currently focused on learning through hands-on development rather than just following tutorials.
 
-Tornar-me um desenvolvedor de software com fundamentos sólidos e experiência prática para criar soluções úteis para problemas reais.
+My projects are helping me practice:
 
-Tenho interesse especial em desenvolvimento web e engenharia de software.
+- Programming logic and problem-solving
+- Building responsive web experiences
+- DOM manipulation and user interactions
+- Working with data, arrays and application state
+- Version control and project organization
+- Turning ideas into functional products
+- Improving projects through testing and iteration
 
-**Sempre aprendendo. Sempre construindo.**
-<br>
-<br>
+As my knowledge grows, I'm gradually expanding into broader areas of software development.
 
-<br>
-Get in touch
-<br>
-<a href="mailto:brunohsantana.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)" alt="mail-me">
-</a>
-<br>
-<a href="https://www.linkedin.com/in/brunohsantana" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="-my-linkedin-button">
-</a>
+---
 
+## 🎓 Education
 
+**Systems Analysis and Development**  
+Centro Universitário UNIFACVEST  
+2026 – 2028
+
+**Software & Web Development**  
+DevClub  
+2026 – Present
+
+---
+
+## 🌎 A little more about me
+
+🇧🇷 Based in Brazil  
+🇦🇺 Lived and worked in Australia for several years  
+🌐 Portuguese & English  
+🎨 Former tattoo artist and entrepreneur  
+⚡ Previous experience with electrical work and renewable energy  
+💻 Now building my career in software development
+
+---
+
+## 🤝 Let's connect
+
+I'm open to internship and junior opportunities where I can contribute, learn from experienced people and keep growing as a developer.
+
+[LinkedIn](https://www.linkedin.com/in/brunohsantana)  
+[Email](mailto:brunohsantana.dev@gmail.com)
+
+---
+
+**Building. Learning. Improving one project at a time.**
 
 <!--
 **brunohsantana-dev/brunohsantana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
