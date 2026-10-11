@@ -1,4 +1,4 @@
-# Hi, I'm Bruno 👋
+# Hi, I'm Bruno 
 
 ### Software Developer • Web Development • Building Real-World Applications
 
@@ -76,8 +76,7 @@ My current focus includes:
 
 ## 🌎 Background
 
-🇧🇷 Based in Brazil  
-🇦🇺 Lived and worked in Australia for several years  
+ Based in Brazil. Lived and worked in Australia for several years  
 🌐 Portuguese & English  
 👥 Previous experience in team leadership and operations  
 🎨 Former tattoo artist and entrepreneur  
@@ -87,7 +86,7 @@ That background gives me a perspective on software that goes beyond code. I care
 
 ---
 
-## 🤝 Let's connect
+##  Let's connect
 
 I'm open to junior and internship opportunities in software and web development, as well as conversations with people building interesting products and technology.
 
