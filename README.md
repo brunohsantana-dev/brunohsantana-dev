@@ -1,34 +1,35 @@
 # Hi, I'm Bruno 👋
 
-### Software Development • Web Development • Building Real-World Projects
+### Software Developer • Web Development • Building Real-World Applications
 
-I'm transitioning into software development while studying Systems Analysis and Development and building practical projects along the way.
+I'm a software developer focused on building practical web applications and expanding across both frontend and backend development.
 
-Before tech, I built a diverse professional background across Brazil and Australia, with experience in team management, hospitality, electrical work and renewable energy, as well as entrepreneurship through my work as a tattoo artist.
+My professional background spans Brazil and Australia, with experience in team leadership, entrepreneurship, electrical work and renewable energy. That mix shaped the way I approach software today: I take ownership, adapt quickly, communicate clearly, solve problems under pressure and look beyond the code to understand what actually needs to be built.
 
-That journey taught me how to solve problems, adapt quickly, communicate with different people, take ownership, work under pressure, and combine creativity with practical decision-making.
+Most of my growth comes from building. I've worked on interactive JavaScript projects, browser-based applications with state and persistence, and I'm now expanding into backend development with Node.js, Express, Prisma and MongoDB.
 
-**I'm at the beginning of my career as a developer — but not at the beginning of my professional journey.**
+I like taking an idea, figuring out how it should work, building it, breaking it, fixing it and making it better.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍔 Byte Burger
-A responsive and interactive burger restaurant experience combining JavaScript logic, visual design and dynamic content.
+### ⚙️ Users API
 
-**Live:**  
-https://brunohsantana-dev.github.io/arrays-burger/
+A user management API built with Node.js and Express, with CRUD operations and persistent data storage using MongoDB Atlas and Prisma.
+
+The project helped me move beyond browser-based applications and start working with backend concepts such as HTTP methods, routes, request bodies, asynchronous operations, databases and environment variables.
 
 **Repository:**  
-https://github.com/brunohsantana-dev/arrays-burger
+https://github.com/brunohsantana-dev/conceitos-node
 
 ---
 
 ### 🎲 Bora Codar
-A coding challenge picker created to help programming learners decide what to build next.
 
-Users can choose difficulty levels, filter pending challenges, track completed projects and keep their progress saved in the browser.
+A responsive coding challenge picker designed to help programming learners decide what to build next and keep track of their progress.
+
+The application includes difficulty filters, randomized challenge selection, completion tracking, dynamic DOM updates and browser persistence using `localStorage`.
 
 **Live:**  
 https://brunohsantana-dev.github.io/challenge-draw/
@@ -38,57 +39,64 @@ https://github.com/brunohsantana-dev/challenge-draw
 
 ---
 
+### 🍔 Byte Burger
+
+A responsive and interactive burger menu built around JavaScript array methods, dynamic data and DOM manipulation.
+
+The project started as a JavaScript exercise and evolved into a complete web experience with its own retro arcade / cyberpunk-inspired interface.
+
+**Live:**  
+https://brunohsantana-dev.github.io/arrays-burger/
+
+**Repository:**  
+https://github.com/brunohsantana-dev/arrays-burger
+
+---
+
 ## 👨‍💻 What I'm working on
 
-I'm currently focused on learning through hands-on development rather than just following tutorials.
+I'm currently building across frontend and backend development, with a strong focus on understanding how applications work end to end.
 
-My projects are helping me practice:
+My current focus includes:
 
-- Programming logic and problem-solving
-- Building responsive web experiences
-- DOM manipulation and user interactions
-- Working with data, arrays and application state
-- Version control and project organization
-- Turning ideas into functional products
-- Improving projects through testing and iteration
+- JavaScript application logic
+- DOM interaction and dynamic interfaces
+- Responsive web development
+- State and browser persistence
+- Node.js and Express
+- APIs and CRUD operations
+- MongoDB
+- Prisma
+- Asynchronous JavaScript
+- Debugging and iteration
+- Turning ideas into functional applications
 
-As my knowledge grows, I'm gradually expanding into broader areas of software development.
-
----
-
-## 🎓 Education
-
-**Systems Analysis and Development**  
-Centro Universitário UNIFACVEST  
-2026 – 2028
-
-**Software & Web Development**  
-DevClub  
-2026 – Present
 
 ---
 
-## 🌎 A little more about me
+## 🌎 Background
 
 🇧🇷 Based in Brazil  
 🇦🇺 Lived and worked in Australia for several years  
 🌐 Portuguese & English  
+👥 Previous experience in team leadership and operations  
 🎨 Former tattoo artist and entrepreneur  
 ⚡ Previous experience with electrical work and renewable energy  
-💻 Now building my career in software development
+
+That background gives me a perspective on software that goes beyond code. I care about how things work, who they are being built for and whether they actually solve the problem they are supposed to solve.
 
 ---
 
 ## 🤝 Let's connect
 
-I'm open to internship and junior opportunities where I can contribute, learn from experienced people and keep growing as a developer.
+I'm open to junior and internship opportunities in software and web development, as well as conversations with people building interesting products and technology.
 
 [LinkedIn](https://www.linkedin.com/in/brunohsantana)  
 [Email](mailto:brunohsantana.dev@gmail.com)
 
 ---
 
-**Building. Learning. Improving one project at a time.**
+**Build it. Break it. Understand it. Make it better.**
 
 <!--
 **brunohsantana-dev/brunohsantana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
